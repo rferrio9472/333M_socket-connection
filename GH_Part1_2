@@ -1,0 +1,14 @@
+Part 1
+git init
+git add server.py client.py
+git commit -m "Add socket connection scripts"
+git remote add origin https://github.com/rferrio9472/333M_socket-connection/.git
+git push -u origin master
+
+Part 2
+cd port_scanner
+git init
+git add port_scanner.py
+git commit -m "Add port scanner script"
+git remote add origin https://github.com/YOUR_USERNAME/port-scanner.git
+git push -u origin master
